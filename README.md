@@ -22,6 +22,8 @@ Use : Spring, Jpa, Mysql, Redis, Docker, AWS
 
 ### 셀러
 - [ ] 상품 CRUD
+- [ ] 매출 조회
+- [ ] 잔액 추가 (정산 전용)
 
 ### 주문 서버
 
